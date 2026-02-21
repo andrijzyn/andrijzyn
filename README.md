@@ -27,7 +27,7 @@ In the future, I want to learn video and photo editing when I buy a new system a
 
 #### My current setup:
 
-Acer Aspire E5 573 (I3 4005U, HD4400, 8GB DDR3)
+Lenovo Yoga Slim 7 14IIL05 (I7 1065G7, Iris, 16GB DDR4)
 
 Keyboard: GMK87, Mouse: Logitech Pebble M350
 
